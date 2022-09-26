@@ -1,0 +1,6 @@
+cloudscraper
+bs4
+rich
+threading
+PyRoxy
+os

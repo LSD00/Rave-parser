@@ -12,4 +12,4 @@ python3 main.py
 
 
 ## Donate
-btc: 3J31X88srimr7EMfJ129VwQCtawQV1jna1
+btc: 3JzWqmqH6YwXVVoBWsTuSgJg3qQXNHcgPp

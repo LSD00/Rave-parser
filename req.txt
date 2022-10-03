@@ -2,5 +2,5 @@ cloudscraper
 bs4
 rich
 threading
-PyRoxy
+git+https://github.com/MHProDev/PyRoxy.git
 os
